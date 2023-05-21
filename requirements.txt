@@ -1,0 +1,4 @@
+tensorflow
+curses
+pyplayscii
+keyboard
